@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PrajwalCP29
+- 👋 Hi, I’m Prajwal!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,SQL,C
+- 🌱 I’m currently learning Python,SQL,C,power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
