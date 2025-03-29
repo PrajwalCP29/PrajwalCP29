@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajwal!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python,SQL,C,power BI
+- 🌱 I’m currently learning Python,SQL,Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
