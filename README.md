@@ -21,5 +21,5 @@
 - 📊 **Blinkit Sales Dashboard** –  A Power BI dashboard providing a comprehensive sales analysis, interactive data exploration, and trend visualization to drive strategic business decisions.
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/prajwal-parihar-557586228/)  
-[![Gmail]( mailto:prajwalparihar292003@gmail.com)  
+[![💼Linkedin](https://www.linkedin.com/in/prajwal-parihar-557586228/)  
+[![📧Gmail]( mailto:prajwalparihar292003@gmail.com)  
