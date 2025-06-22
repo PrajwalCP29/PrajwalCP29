@@ -3,7 +3,7 @@
 🚀 **Aspiring Data Scientist | AI & ML Enthusiast | Software Developer**  
 
 ## 💡 About Me  
-- 🎓 **B.Tech CSE (Data Science)** | 3rd Year Student at GHRCE, Nagpur  
+- 🎓 **B.Tech CSE (Data Science)** | 4th Year Student at GHRCE, Nagpur  
 - 💻 Passionate about **AI/ML, Data Science, and Software Development**  
 - 🌱 Currently **Exploring Data Engineering, Cloud Computing & AI-powered applications**  
 - 📈 Actively **Solving DSA problems** and working on **real-world AI projects**  
